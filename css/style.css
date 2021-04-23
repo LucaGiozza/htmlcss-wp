@@ -113,6 +113,8 @@ nav li a {
     width: 50%;
     margin: 0 2%;
     float:left;
+    background-image: url(../img/banner-2.jpg);
+    background-size: cover;
 }
 
 .section-main{
@@ -149,12 +151,12 @@ nav li a {
 }
 
 .debug .container-main {
-    height: 500px;
+    height: 300px;
     background-color: red;
 }
 
 
-.debug footer{
+/* .debug footer{
     height: 40px;
     background-color: violet;
-}
+} */
