@@ -71,13 +71,22 @@ nav li a {
    
     height: 550px;
     border-radius: 12px;
+    background-color:red;
+    
     
 }
-.prima-foto{
-    
-   
-    
+.pretium{
+    padding-top: 400px;
+    padding-left: 55px;
+    color:gray;
 }
+.paragrafo{
+    
+    padding-left: 55px;
+    color:gray;  
+    font-size: 15px;
+}
+
 
 /* main */
 
