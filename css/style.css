@@ -89,7 +89,10 @@ nav li a {
 
 
 /* main */
-
+.fertenum{
+    color: gray;
+    font-size: 15px;
+}
 .col-sx, 
 .col-dx {
     width: 23%;
@@ -120,17 +123,13 @@ nav li a {
 
 
 
-/* .debug .jumbotron {
-    height: 400px;
-    background-color: tomato;
-    background-size: cover; */
-    
-/* } */
+
 
 
 .debug .section-title{
-    height: 70px;
-    background-color: cyan;
+    height: 80px;
+   
+    
 }
 
 .debug .col-sx,
